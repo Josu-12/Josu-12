@@ -1,5 +1,5 @@
 ## Hey there, I'm Joseph
-I am a Computer Science major studying at University of Illinois Chicago. My technical journey is driven by a passion for mathematics and computer science and an ever- growing passion for developing innovative products. I thrive in working in collaborative environments and breaking down complex problms leading to soltuions that are efficient,secure and functional.
+I am a Computer Science major studying at University of Illinois Chicago. My technical journey is driven by a passion for mathematics and computer science and an ever- growing passion for developing innovative products. I thrive in working in collaborative environments and breaking down complex problems leading to soltuions that are efficient,secure and functional.
 
 What I am Building 🚀
 
